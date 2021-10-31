@@ -14,5 +14,6 @@ function performOperation(secondInteger, secondDecimal, secondString) {
     console.log("uuuuuu");
     console.log("byeee");
         console.log("byeee");
+        console.log("byeee");
 
 }
