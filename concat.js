@@ -13,5 +13,6 @@ function performOperation(secondInteger, secondDecimal, secondString) {
     console.log("I dunno what im printting");
     console.log("uuuuuu");
     console.log("byeee");
-    
+        console.log("byeee");
+
 }
