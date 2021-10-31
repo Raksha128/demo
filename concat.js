@@ -9,4 +9,9 @@ function performOperation(secondInteger, secondDecimal, secondString) {
     console.log(firstInteger+secondInteger));
     console.log(firstDecimal+secondDecimal));    
     console.log(firstString+secondString);
+    console.log("hello world");
+    console.log("I dunno what im printting");
+    console.log("uuuuuu");
+    console.log("byeee");
+    
 }
