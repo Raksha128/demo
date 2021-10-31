@@ -1,6 +1,6 @@
 
 function performOperation(secondInteger, secondDecimal, secondString) {
-    const firstInteger = 4;
+    const firstInteger = 8;
     const firstDecimal = 4.0;
     const firstInteger = 8;
     const firstDecimal = 8.0;
